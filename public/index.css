@@ -1,6 +1,9 @@
 body {
     background-color: aqua;
     color:brown;
+    text-align: center;
+    border-style: double;
+    border-width: 15px;
 
 }
 
